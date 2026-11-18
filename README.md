@@ -50,7 +50,6 @@ Each project, area and resource folder has:
 | 2. Connectors | The Gmail, Drive or Calendar connector of your AI app writes into `90-inbox/`. | A scheduled task in your AI app, every morning. |
 | 3. Own automation | Your own sync scripts. | A server runs everything and sends a morning brief. |
 
-This kit covers level 1 and level 2. Level 3 is what Chantal does.
 
 ## Git Or Cloud Sync
 
