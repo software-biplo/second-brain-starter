@@ -1,0 +1,9 @@
+# Local secrets. Never commit these.
+.env
+credentials/
+tokens/
+_system/*-local.json
+
+# OS
+.DS_Store
+Thumbs.db

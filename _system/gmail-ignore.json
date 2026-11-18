@@ -1,0 +1,38 @@
+{
+  "senders_containing": [
+    "no-reply@",
+    "noreply@",
+    "newsletter@",
+    "notifications@",
+    "notification@",
+    "billing@",
+    "invoice@",
+    "receipts@",
+    "receipt@"
+  ],
+  "domains": [],
+  "subjects_containing": [
+    "invoice",
+    "receipt",
+    "payment received",
+    "payment failed",
+    "billing",
+    "subscription",
+    "newsletter",
+    "unsubscribe",
+    "security alert",
+    "verify your email",
+    "welcome to",
+    "your trial",
+    "digest"
+  ],
+  "labels": [
+    "CATEGORY_PROMOTIONS",
+    "CATEGORY_SOCIAL",
+    "CATEGORY_FORUMS"
+  ],
+  "attachment_names_containing": [
+    "invoice",
+    "receipt"
+  ]
+}
